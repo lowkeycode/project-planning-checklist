@@ -51,7 +51,8 @@ List the required features to achieve each corresponding user story
 
 ## Flow Chart
 Along-side the features create a flow chart for how the application should work (Add a legend for help)
-![Legend]()
+![Legend](https://github.com/lowkeycode/project-planning-checklist/blob/main/legend.png)
+![Flow Chart](https://github.com/lowkeycode/project-planning-checklist/blob/main/chart.png)
 
 ## Architecture
 
