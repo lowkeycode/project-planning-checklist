@@ -3,7 +3,7 @@
 
 ## Prototype
 
-- [x] Use a design tool or hand draw a rough prototype outlining basic functionality & layout
+- [ ] Use a design tool or hand draw a rough prototype outlining basic functionality & layout
 
 
 ## Build Set Up
