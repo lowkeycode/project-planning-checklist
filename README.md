@@ -50,7 +50,8 @@ List the required features to achieve each corresponding user story
 
 
 ## Flow Chart
-
+Along-side the features create a flow chart for how the application should work (Add a legend for help)
+![Legend]()
 
 ## Architecture
 
