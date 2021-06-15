@@ -41,11 +41,12 @@ Determine:
 Describe the whole site or app functionality of all the types of users perspectives
 
 * Use a visual tool for documentation [Miro](https://miro.com)
-* As a (tpye of user), I want (an action) so that (a benefit)
+* As a (type of user), I want (an action) so that (a benefit)
 
 ## Features
 
-List the required features to acheive each corresponding user story
+List the required features to achieve each corresponding user story
+![https://github.com/lowkeycode/project-planning-checklist/userStories-features.png]
 
 
 ## Flow Chart
