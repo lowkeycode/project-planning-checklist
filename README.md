@@ -46,7 +46,7 @@ Describe the whole site or app functionality of all the types of users perspecti
 ## Features
 
 List the required features to achieve each corresponding user story
-![User Story/Features](https://github.com/lowkeycode/project-planning-checklist/userStories-features.png)
+![User Story/Features](https://github.com/lowkeycode/project-planning-checklist/blob/main/userStories-features.png)
 
 
 ## Flow Chart
