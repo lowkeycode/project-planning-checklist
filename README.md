@@ -56,5 +56,12 @@ Along-side the features create a flow chart for how the application should work 
 
 ## Architecture
 
+Not always necessary to start coding. Coding can help test some assumptions and architecture can be revisited.
+
+Start thinking about different components and their requirements. Starting thinking about different styles (OOP/Funtional) and principles [SOLID](https://dev.to/francescoxx/solid-principles-in-javascript-3pek) what might fit well where.
+
+
 
 ## Development
+
+Go code.
