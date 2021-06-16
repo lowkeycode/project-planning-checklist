@@ -60,6 +60,34 @@ Not always necessary to start coding. Coding can help test some assumptions and 
 
 Start thinking about different components and their requirements. Starting thinking about different styles (OOP/Funtional) and principles [SOLID](https://dev.to/francescoxx/solid-principles-in-javascript-3pek) what might fit well where.
 
+Components Of Any Architecture:
+
+1. Business Logic
+
+* Code that solves the actual business problem
+* Directly related to twhat the business does and what it needs
+Ex.) WhatsApp (Sends messages), Bank App (Stores transaction records), Accounting Software (Calculates taxes)
+
+2. State
+
+* Stores all the data about the application (data from an API, data the user inputs, what page the suer is currently viewing etc.)
+* Should be the "single source of truth"
+* UI should be kept in sync with state
+* There are state libraries (Redux, MobX)
+
+3. HTTP Library
+* Responsible for making and receiving AJAX requests
+* Optional but almost always necessary in real-world apps
+
+4. Application Logic (Router)
+* Code that is only concerned about the implementation of the application itself
+* Handles navigation on the page and UI events
+
+5. Presentation Logic (UI Layer)
+* Code that is concerned about the visible part of the application
+* Essentially displays application state
+* Keeps in sync with state
+
 
 
 ## Development
